@@ -70,7 +70,7 @@ python src/main.py
 
 ## Screenshot
 
-![Long Call Payoff](images/long_call.png)
+![Long Call Payoff](images/long-call.png)
 
 ## Future Improvements
 
